@@ -1,7 +1,7 @@
 #  yoo, i'm yaseen! 👋 
 
 - 💻 I **program**
-- 💰 I like **finance**
+- 💰 Finance geek
 - 🎵 Music producer using **FL Studio 24**
 - 🌱 I’m currently learning **cybersecurity**
 
