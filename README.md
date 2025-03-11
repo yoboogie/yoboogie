@@ -20,6 +20,8 @@
 - java
 - powershell
 
+---
+
 ### tools i know
 
 - adobe suite
@@ -28,6 +30,24 @@
 - microsoft office 365
 - git/github
 - FL studio 24
+
+---
+
+### music
+
+i produce under the name **@prod.yaseen** 🎤 
+
+#### genres
+
+- jersey club (main)
+- hip hop
+- rnb
+- arabic
+- edm
+- house
+- uk garage
+
+dm me on instagram for beats
 
 ---
  
