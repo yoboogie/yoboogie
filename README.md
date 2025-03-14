@@ -3,7 +3,7 @@
 - 💻 I **program**
 - 💰 Finance geek
 - 🎵 Music producer using **FL Studio 24**
-- 🌱 I’m currently learning **cybersecurity**
+- 🌱 I’m currently learning **web development**
 
 ---
 
