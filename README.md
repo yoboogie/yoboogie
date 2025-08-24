@@ -19,6 +19,9 @@
 - javascript
 - java
 - powershell
+- react
+- tailwindcss
+- next.js
 
 ---
 
@@ -42,10 +45,10 @@ i produce under the name **@prod.yaseen** 🎤
 - jersey club (main)
 - hip hop
 - rnb
-- arabic
 - edm
 - house
 - uk garage
+
 
 dm me on instagram for beats
 
